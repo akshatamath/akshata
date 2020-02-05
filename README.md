@@ -1,1 +1,1 @@
-# akshata
+#Heteroscedasticity check
